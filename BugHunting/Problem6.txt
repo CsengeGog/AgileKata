@@ -1,0 +1,4 @@
+'(int)x <0' is always false
+'(int)x' is out of bounds
+
+if ((int)x <0 || (int)x >= index_64.lenght)
