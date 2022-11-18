@@ -1,0 +1,2 @@
+The first bug is 'dataTmpFile == null'. 
+The second bug is ' || '
