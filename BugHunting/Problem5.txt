@@ -1,0 +1,1 @@
+The variable: byte type is the issue. 'endKey[i] < 0xff' is always true.

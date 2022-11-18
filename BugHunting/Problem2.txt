@@ -1,0 +1,1 @@
+return (points.size() == 1) ==  (points.get(1) == 0);
